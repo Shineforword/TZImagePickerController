@@ -18,5 +18,6 @@
 "Select the video when in multi state, we will handle the video as a photo" = "حدد مقطع الفيديو عندما يكون في حالة متعددة، وسنعمل على معالجة مقطع الفيديو كصورة";
 "Select a maximum of %zd photos" = "حدد فقط ما يصل إلى %zd صورة";
 "Select a minimum of %zd photos" = "الرجاء تحديد %zd صورة على الأقل";
+"Only one photo can be selected" = "Only one photo can be selected";
 "Allow %@ to access your album in \"Settings -> Privacy -> Photos\"" = "السماح لـ %@ بالوصول إلى الألبوم في \"الإعدادات > الخصوصية > الصور\"";
 "Please allow %@ to access your camera in \"Settings -> Privacy -> Camera\"" = "الرجاء السماح لـ %@ بالوصول إلى الكاميرا في \"الإعدادات > الخصوصية > الكاميرا\"";
